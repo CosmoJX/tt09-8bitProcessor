@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a 4bit adder that takes 4bit inputs and output a 4bit sum and a 1bit carry out.
 
 ## How to test
 
-Explain how to use your project
+The first input was mapped to input pins 0 - 3 and the second input was mapped to input pins 4 - 7.
+The output sum was mapped to output pins 0 - 3 and the output carry out was mapped to output pin 4.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+no external hardware used in this project.
